@@ -1,0 +1,6 @@
+Test: tests/test_login.py::TestLogin::test_valid_login
+Result: PASSED
+
+Test: tests/test_login.py::TestLogin::test_valid_login
+Result: PASSED
+
